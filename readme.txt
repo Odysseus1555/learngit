@@ -17,4 +17,9 @@ Git is free software.
 Git is free software.
 Git is free software.
 Git is free software.
-Git is free software.
+Git is free software. sta
+git: 'sta' is not a git command. See 'git --help'.
+
+The most similar commands are
+        status
+        stage
