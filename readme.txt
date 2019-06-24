@@ -25,3 +25,4 @@ The most similar commands are
         stage
 creating a new branch is quick.
 creating a new branch is quick and simple.
+test --no-ff methods
