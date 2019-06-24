@@ -23,3 +23,4 @@ git: 'sta' is not a git command. See 'git --help'.
 The most similar commands are
         status
         stage
+creating a new branch is quick.
